@@ -1,0 +1,2 @@
+S.U.N.E.O. OS 1.0 includes Three.js, © 2010-2026 three.js authors, distributed under the MIT License.
+See THREEJS-LICENSE.txt for the full license text.

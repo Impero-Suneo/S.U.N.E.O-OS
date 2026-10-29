@@ -1,0 +1,8 @@
+S.U.N.E.O. OS 1.0 — build statica della Città Volante.
+
+Questa build offre la dashboard e il gioco locale. La partita si salva nel browser; non usa account, database o multiplayer online.
+Il ruolo visualizzato è una modalità di gioco SUDDITO. L'identità dell'Imperatore non è verificata e i comandi centrali sono disattivati.
+La chat S.U.N.E.O. AI non è collegata a un modello reale.
+
+Three.js è incluso localmente. Dopo il primo caricamento via HTTPS, Safari può conservare le risorse statiche per uso offline.
+Per il sorgente, i test e lo schema futuro, consulta il pacchetto completo del progetto.
